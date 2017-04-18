@@ -1,0 +1,202 @@
+{
+ "address": "1DCRSfb95muP5N78v1fQ8DN8CxbjEfXewT",
+ "description": "DCRS is a OS that runs HTML5 work systems.",
+ "domain": "dcrs.bit",
+ "favicon": "favicon.ico",
+ "files": {
+  "favicon.ico": {
+   "sha512": "92062cb6bf4280b08ff67fb01b58acf245e250ebf7c88662bdcffd3ca6b29464",
+   "size": 1150
+  },
+  "icon.png": {
+   "sha512": "275df607d24dcb36873bcc0b2fd841dd2ea27c6ce67e9037a179dff4cda2327c",
+   "size": 541
+  },
+  "images/demo/222x86.png": {
+   "sha512": "c0e1915be19ab8c7079056390e6045ceb109b1e69a2ea83455a3413175e484d3",
+   "size": 1911
+  },
+  "images/demo/320x140.png": {
+   "sha512": "1f4c44b7507df33f77218608a6587ddc851c999c8a4d5de94d47f9f69f5a07d1",
+   "size": 2213
+  },
+  "images/demo/480x186-vid.png": {
+   "sha512": "ccb556fc65ba1e7b13af9e49524e759431da3a4a9981c0228ca9f69616a04c90",
+   "size": 6039
+  },
+  "images/demo/480x186.png": {
+   "sha512": "feed9b65ef5bc1a444fed18072d3e416e56a2144b04536114cbfd2ffda9236fc",
+   "size": 4366
+  },
+  "images/demo/978x380.png": {
+   "sha512": "19e9b00bf3d25657ba9190396a6509cb0a31ca45f99ab605cecbf3d56184b906",
+   "size": 10116
+  },
+  "images/demo/avatar.png": {
+   "sha512": "2b2940c31f5580a78975c4a6366313c3b994644160beeb9225e64d7618ce0aae",
+   "size": 454
+  },
+  "images/demo/backgrounds/01.png": {
+   "sha512": "4a66601b521c3aeba67577c1d6f9cf0fb08fd1e8ecee3fc22c169c16afdf8450",
+   "size": 130297
+  },
+  "images/demo/backgrounds/02.png": {
+   "sha512": "f4dbd751566c9e6c7f5b19b22cb83ece17a3cb48d7e56a0a4261bdab0dcd1713",
+   "size": 15652
+  },
+  "images/demo/backgrounds/03.png": {
+   "sha512": "b41b96cf8a4bd6bc161f014b1799dcc0f0d51bb1a1e790faa0f7b2d1f2843484",
+   "size": 11772
+  },
+  "images/demo/backgrounds/04.png": {
+   "sha512": "b091f03e57eb49616dbe31dabf5289fd2570d32d7f9063dc6ba94df400c93635",
+   "size": 17821
+  },
+  "images/demo/backgrounds/index.html": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "images/demo/gallery/01.png": {
+   "sha512": "70050b6bb3864ad014b584960afee116c255a734ee58c2076eb10557b814b24b",
+   "size": 2500
+  },
+  "images/demo/gallery/index.html": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "images/demo/icons/dcrs.png": {
+   "sha512": "4dcc248d60daabd7287d4e2f6254a3fbd2493020fae41f414edd531d725fb55f",
+   "size": 15845
+  },
+  "images/demo/icons/html.png": {
+   "sha512": "74bd067ad02a3533cdfa466be6e675245c4f6a6f0eb86d2a02170daba7731a5b",
+   "size": 4524
+  },
+  "images/demo/icons/zeronet.png": {
+   "sha512": "b6beb47468b6cd144338f9756faa9e038c0829c570af2a2e869992e50a63436f",
+   "size": 116752
+  },
+  "images/demo/imgl.gif": {
+   "sha512": "ee02778dbfbe37c79a8ffbe190d0a67440d684c35e939bd976e9e0aef1f26b0b",
+   "size": 998
+  },
+  "images/demo/imgr.gif": {
+   "sha512": "6963d892a0f95e6ec49a01949be35c8c39e23eea7c3a827bdb7c0acbb7a2bd7c",
+   "size": 1178
+  },
+  "images/demo/index.html": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "images/index.html": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "index.html": {
+   "sha512": "f742cd15d0f4bc937d2b10848c57f17e719c7ad1e22d7b09ffb1cde397cd2df4",
+   "size": 17977
+  },
+  "layout/index.html": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "layout/scripts/index.html": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "layout/scripts/jquery.backtotop.js": {
+   "sha512": "6100634a858d77365259ce44a8664c4418daf657e96a6c38c41eb76efcce5526",
+   "size": 607
+  },
+  "layout/scripts/jquery.min.js": {
+   "sha512": "f6733a930c491ecd70c6fe981e73386054b0c5256d0437cb4998556dbb1e0e51",
+   "size": 86711
+  },
+  "layout/scripts/jquery.mobilemenu.js": {
+   "sha512": "b9c34776c2335012b0db25c6e0fc42b119ac6bf5e5b327edf3c7d2abd3348282",
+   "size": 1289
+  },
+  "layout/styles/font-awesome.min.css": {
+   "sha512": "b571cb708f37395539a2c18163dff8045fe8aa44a23553f8d908d9cdfd49d641",
+   "size": 30984
+  },
+  "layout/styles/fonts/FontAwesome.otf": {
+   "sha512": "a3acaaac3a9861ac7a4ba23e52b9115d39b674cb685b45454fb4b80329a4f737",
+   "size": 134808
+  },
+  "layout/styles/fonts/fontawesome-webfont.eot": {
+   "sha512": "c160d3d77e67eff986043461693b2a831e1175f579490d7f0b411005ea81bd4f",
+   "size": 165742
+  },
+  "layout/styles/fonts/fontawesome-webfont.svg": {
+   "sha512": "4f575d52331de91a2e32cc3408dd0eaf0cf25b7244d34b226314e3647e85ce28",
+   "size": 444379
+  },
+  "layout/styles/fonts/fontawesome-webfont.ttf": {
+   "sha512": "9ffb91e68c975172848b4bba25284678cc2c6eb4fb2d42000aa871c36656c4ce",
+   "size": 165548
+  },
+  "layout/styles/fonts/fontawesome-webfont.woff": {
+   "sha512": "9c776dea55a01fd854ea23b3463d9ac716077d406ecbe8ed0c9b6120ff7e6035",
+   "size": 98024
+  },
+  "layout/styles/fonts/fontawesome-webfont.woff2": {
+   "sha512": "838fefdbc14901f41edf995a78fdac55764cd4912ccb734b8bea490919458290",
+   "size": 77160
+  },
+  "layout/styles/fonts/index.html": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "layout/styles/framework.css": {
+   "sha512": "0891aed50ad2b4c5179de5858b5d7ee2fa2aaed57bd72ba49bcb76c11e64752b",
+   "size": 4729
+  },
+  "layout/styles/index.html": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "layout/styles/layout.css": {
+   "sha512": "d9846e1643f67264b802305db1df961a31ba001d45209c2d90f415cc5b8d6cad",
+   "size": 16741
+  },
+  "pages/basic-grid.html": {
+   "sha512": "212e8d64f479a4a49d7be81fcdf317319769f5232abe3f104395346b716ef6b1",
+   "size": 11584
+  },
+  "pages/full-width.html": {
+   "sha512": "c3e6b654c7d06dd4af89a306968022db7be72641043f0083f53144aa88c253c3",
+   "size": 15273
+  },
+  "pages/gallery.html": {
+   "sha512": "54f9c65af0f2cf06a2f45d8d3f80cd44cda3a22b30a836c5c3cdd7b1be274bfa",
+   "size": 11894
+  },
+  "pages/index.html": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
+  },
+  "pages/sidebar-left.html": {
+   "sha512": "2604a8b8a9759a63755adb91847c2e6b4d5606e854c04c3e9af3c8f3bf6bb477",
+   "size": 17671
+  },
+  "pages/sidebar-right.html": {
+   "sha512": "a594a04c491974e1369b4af461f42e0e0257e11303574b8847a63151e2e27dfd",
+   "size": 17673
+  }
+ },
+ "ignore": "",
+ "inner_path": "content.json",
+ "modified": 1492511584,
+ "sign": [
+  9932795284628793453577860905527371394270199954095595327033854701864400937250,
+  87442088069917854936074829667768542807558673995352236683493814236920017994684
+ ],
+ "signers_sign": "HIyg+dOPWKFZL5GTI7ilHGpwyPy1WLXObNJp8zXvEvvuUqTvUK2KvGuKkQe4ulAaf1STWZ5wYPi8p91bF7kwU80=",
+ "signs": {
+  "1DCRSfb95muP5N78v1fQ8DN8CxbjEfXewT": "GyX7EbYyhKlF0ceBGbQuxy31Hmyg7FWv3yRbh6ck4r31GC8Ps49iQEBD4GjASxx4cpLoF80SUmmzQD4Y10BsJ8g="
+ },
+ "signs_required": 1,
+ "title": "DCRS - Device Checker/Runtime System",
+ "zeronet_version": "0.5.4"
+}
