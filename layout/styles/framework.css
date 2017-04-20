@@ -100,7 +100,7 @@ address, article, aside, figcaption, figure, footer, header, main, nav, section{
 .two_third{width:65.6441717791411%;}
 .three_quarter{width:74.23312883435584%;}
 
-.one_third img { width: 120px; margin-bottom: 30px }
+.one_third img { width: 120px; height: 120px; margin-bottom: 30px }
 
 
 /* Spacing
