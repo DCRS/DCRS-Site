@@ -5,8 +5,8 @@
  "favicon": "favicon.ico",
  "files": {
   ".git/COMMIT_EDITMSG": {
-   "sha512": "1592180d313106169f79b9e98a783892a97ef1af7851402c0a894dc9186f6694",
-   "size": 17
+   "sha512": "600cce76288778d444a0b8a73857475f3513374d8d227740550aedb676106beb",
+   "size": 65
   },
   ".git/FETCH_HEAD": {
    "sha512": "5d0592b8aa488406301891784e3b58bdc13e5f729c02f52cc6db4701db80af56",
@@ -65,28 +65,28 @@
    "size": 3610
   },
   ".git/index": {
-   "sha512": "0e5ea4406def92147ba9afaf633de836225e5c2a0821dc84ec8af24d2e5662c1",
-   "size": 4493
+   "sha512": "535a4a765db101533721e7c7a97341b4656c1750acff627cef22f062edacf9e6",
+   "size": 4565
   },
   ".git/info/exclude": {
    "sha512": "9828c6ecdf91bf117416e17f4ee9caee2e1e37b6fb00b9ff04035ace17a3089b",
    "size": 240
   },
   ".git/logs/HEAD": {
-   "sha512": "99b26d9630ef8069b9ca2971ca17b239da31cda4d728839dbf73eea051c4fea5",
-   "size": 870
+   "sha512": "249e944090086d3499b9623d37d9d38e4a3281a61fdbea4f5a0a5e3a89b528f6",
+   "size": 1245
   },
   ".git/logs/refs/heads/master": {
-   "sha512": "99b26d9630ef8069b9ca2971ca17b239da31cda4d728839dbf73eea051c4fea5",
-   "size": 870
+   "sha512": "249e944090086d3499b9623d37d9d38e4a3281a61fdbea4f5a0a5e3a89b528f6",
+   "size": 1245
   },
   ".git/logs/refs/remotes/origin/HEAD": {
    "sha512": "fc1244e0192991843ad2f6394f2c4ea1fba8a164d41779d17df259eef5797298",
    "size": 176
   },
   ".git/logs/refs/remotes/origin/master": {
-   "sha512": "44e3c0167c8cb9067634ba4eb1226ce8368481e457246eecc60f5d6cc7d66fa4",
-   "size": 584
+   "sha512": "de1057d8b9eec0819c858384b1070e754578aa1e953663535001ebc844463db6",
+   "size": 876
   },
   ".git/objects/01/2e50ee98d6981c6994b24217ba30074516a91b": {
    "sha512": "580808ac73c7e4b6f1eedfbc723fc361e48ab8225046bd2bef1c78760a964cf9",
@@ -95,6 +95,10 @@
   ".git/objects/01/4ee2084d8caadd7bd9e3967bcda0ece078e3b0": {
    "sha512": "6f653051473a7923a808cc20eadbf799d442101d1dc0a963f236532077154307",
    "size": 2509
+  },
+  ".git/objects/02/5f8fa6ebc37bf07db445667cb02d4b7ead048c": {
+   "sha512": "2d31fa56d5bf6f1896191b4f271318abf72adf5196735395e6f110aa7bb35d7e",
+   "size": 367
   },
   ".git/objects/07/0e5e923a344548a1801fe2c648b2e9e576fcec": {
    "sha512": "fd182ec0ea3aa2a571ea933ac06733c919a42cef6633efcb6c852a67e7e670be",
@@ -111,6 +115,10 @@
   ".git/objects/0c/3778a4a1731e92501f5d48b2d0f973212b0cfa": {
    "sha512": "a40bdce321e0e53be411d43f876e168a1c8db3a934d5dd45ce0dbb5f77ce5299",
    "size": 13212
+  },
+  ".git/objects/0f/40aa250c42c1930ae971fe9e862c02f15700ee": {
+   "sha512": "78943ecbfb483da93eaddfcc4907567d78d1607ce9d4a28d9cfb56355b4adf79",
+   "size": 46
   },
   ".git/objects/14/f454fe2b7bbee401adb16af25f546e654e2e62": {
    "sha512": "7cb0e514e25227d99092a78fd10a92a9552f1bb48ea7520141b4d5c672d4aca3",
@@ -196,6 +204,10 @@
    "sha512": "87306979503b3b9fd16b171c4c4c22b66f71072dcb92f85e1591b4ec3dae59e7",
    "size": 9521
   },
+  ".git/objects/60/7de2d6e7e09cab84b029b8d7da1fcaf6bf89ae": {
+   "sha512": "d27b56d30beed622bdb052d9275eadc8edb685546680552e5b1c439e45fb3686",
+   "size": 125555
+  },
   ".git/objects/61/92c6de855e0d5edb9561e5cbc35d70935ed2eb": {
    "sha512": "c1689a783f3d640f741a0efe192be20fdcd7fd135b37ebb032bfe511c17f30f9",
    "size": 307
@@ -204,9 +216,21 @@
    "sha512": "2a89ec98d4d640183dc95e1c159061a5d4c84a2c7fa2680824b91bcb1112acfc",
    "size": 264
   },
+  ".git/objects/68/463fd381df1bceb5ac7f0596be9d270caed877": {
+   "sha512": "6b2d7c495d821f1481eddf79f9410aefe453127d11f3c3089a8225dbca62b7d5",
+   "size": 78
+  },
   ".git/objects/68/95dcd55685d34a35a52312f90fe362a764a389": {
    "sha512": "145cfce820479565390180b9269b9832d89db30cc1612c41708c242f8390e62a",
    "size": 2198
+  },
+  ".git/objects/6c/01d74e44d6ccbc39a44a2041aa5a0291e51305": {
+   "sha512": "9052ba12c43370e16bc84c3dbbe912d7dbd20470494c8bc1ab1fc6d3fab645e1",
+   "size": 1712
+  },
+  ".git/objects/6e/a93e2a0f5e14c3198b3203d25871f5dd66cd65": {
+   "sha512": "4f4ab4efbab627fbe4fd01d20d4bc230af6565f5967ec7ed341092ff629c6379",
+   "size": 336
   },
   ".git/objects/70/479e3e287b968e971ab02e32f49ce57979b537": {
    "sha512": "b0a350d2ead8e665d6ad2ca71eef4be31a3d74f6e3f118ff2819088a2c0f201d",
@@ -251,6 +275,10 @@
   ".git/objects/87/5f80e9cdef88f60985093abe69fe914703bb5a": {
    "sha512": "5dd9d09a3d129af7eb3993248ab05198d2022837cffd006755fa3acad503bef8",
    "size": 1012
+  },
+  ".git/objects/89/032d3d82b7df7311b5a32df4515f361c8480c6": {
+   "sha512": "0463c2e1a9ee0d5e33555223234646b1f4e67416919dcb4376b259daaabade26",
+   "size": 131
   },
   ".git/objects/89/0480677c46a493710af190bcdcf84a750ada7f": {
    "sha512": "9d6580d4879a270bf59bae29fc144d82e14bdecd5117b9445f6a70149eae7fbb",
@@ -312,6 +340,10 @@
    "sha512": "c19990433b0d99dd9d24caa3aa7b6062a45246b4193aab6500ff76b3959a1fd1",
    "size": 551
   },
+  ".git/objects/b4/ebefab7fe5424e67371967f5fc70fde466a36b": {
+   "sha512": "b2fc43c215691fec4999fd3bc2726791414c8f6845467e3ce8cde5404ab25eb9",
+   "size": 336
+  },
   ".git/objects/be/337d611cdbea174a848a61cbdb8221e24edd3a": {
    "sha512": "c1ad561679e51a056468b27d9eee8e62972939bbb098b48e5f5edc29bbb73318",
    "size": 552
@@ -332,6 +364,10 @@
    "sha512": "46e961cb4b47240b7f0c5e113ce4f36bab8ab44ac478f72927ec02f2973be448",
    "size": 33648
   },
+  ".git/objects/c6/cec0be19301e8f737aa61be5aefa7cf579655d": {
+   "sha512": "8d9b689c3ca9e78cc1c184e9b752fc0e53ae28fb73717b5f7b21ccb55b2c7471",
+   "size": 159
+  },
   ".git/objects/ca/f4999bd2fddc7975ce822b8c498a00dc9a018f": {
    "sha512": "0f4a6f85ed4c7a534cded6dfd5516194aecfe67c4e7ef3df437680d226f880fc",
    "size": 4432
@@ -344,6 +380,10 @@
    "sha512": "02918a23d9edb0b550ff0c8b604a5d0f151f217fda1d49ad77338c301525f18a",
    "size": 773
   },
+  ".git/objects/e0/5e10e3dd5edd3591960b4a9fd4be9278777fb9": {
+   "sha512": "56fa33b53d5f21af965b4236475edaaa0c43e5ea81610ff4909dc5d067b1dbf8",
+   "size": 582
+  },
   ".git/objects/e3/9ad676d47b9d7e10e565347f02e3aeaa8d78f3": {
    "sha512": "37b1554bf7927351c2b1b161a453188734efb0c451f61b40d420ca03446e07bf",
    "size": 1708
@@ -355,6 +395,14 @@
   ".git/objects/e9/f60ca953f93e35eab4108bd414bc02ddcf3928": {
    "sha512": "579f50c76d6defa1d0fb8bc810bc1161b6757fc2ff66d097c1412df001ea4783",
    "size": 104300
+  },
+  ".git/objects/f0/06ff44c0c98d0c48f69453fc0b250879fe5d0a": {
+   "sha512": "d46cd3d6d4acd58ee8465b952a2bf98fb3ed90069b8243d050f2f9ab39f47c15",
+   "size": 34825
+  },
+  ".git/objects/f0/84a8c39be30d04e19b53e99666247f0c8d527d": {
+   "sha512": "4c48dc1e935c195d9cf0710ce5f851526ac02ba4e8cce2ba46903abae484ab52",
+   "size": 556
   },
   ".git/objects/f6/f97b462ffe75b68e4a403099416643704355cb": {
    "sha512": "9547f4d5cd32c45bf10ab9f987a4f72a8165cb7b544e09384066e3c8d57a52ac",
@@ -385,7 +433,7 @@
    "size": 107
   },
   ".git/refs/heads/master": {
-   "sha512": "5415215073000f4c0db4e09a86d2bbae39f4ab0670fed59530397cbd3431b498",
+   "sha512": "21d50202a44dece661299a36feaf0ac821c0542915d0726fef1f965bb98183e0",
    "size": 41
   },
   ".git/refs/remotes/origin/HEAD": {
@@ -393,7 +441,7 @@
    "size": 32
   },
   ".git/refs/remotes/origin/master": {
-   "sha512": "5415215073000f4c0db4e09a86d2bbae39f4ab0670fed59530397cbd3431b498",
+   "sha512": "21d50202a44dece661299a36feaf0ac821c0542915d0726fef1f965bb98183e0",
    "size": 41
   },
   "README.md": {
@@ -433,8 +481,8 @@
    "size": 454
   },
   "images/demo/backgrounds/01.png": {
-   "sha512": "4a66601b521c3aeba67577c1d6f9cf0fb08fd1e8ecee3fc22c169c16afdf8450",
-   "size": 130297
+   "sha512": "72b890a58b0ea3feaac9d1bec933f2f79093bd1542ad96f79335c99fcb46f400",
+   "size": 133321
   },
   "images/demo/backgrounds/02.png": {
    "sha512": "f4dbd751566c9e6c7f5b19b22cb83ece17a3cb48d7e56a0a4261bdab0dcd1713",
@@ -2035,14 +2083,14 @@
  },
  "ignore": "",
  "inner_path": "content.json",
- "modified": 1492696717,
+ "modified": 1492697239,
  "sign": [
-  99396254543551698073527939221344618608775802153223715447545038245418933235092,
-  68855006381878471430151211348105229231870823734395210508385556110376382961083
+  58828610410079776655238784078998446277377892333315848004596444345896995888064,
+  101354524846151050978983912911607068393451299993016952760484935441085959352130
  ],
  "signers_sign": "HIyg+dOPWKFZL5GTI7ilHGpwyPy1WLXObNJp8zXvEvvuUqTvUK2KvGuKkQe4ulAaf1STWZ5wYPi8p91bF7kwU80=",
  "signs": {
-  "1DCRSfb95muP5N78v1fQ8DN8CxbjEfXewT": "G/INFljyOJ/hEE2+cDphliDRnFzjcwbbgbu4URjhO87aJHsfbTAmGJyvd8Fg7jGJ29p2Po3GrhYJhgSeFBzRGGI="
+  "1DCRSfb95muP5N78v1fQ8DN8CxbjEfXewT": "HNW5kg3DMZ1YQF420NWFx9BcpsrfI47SwwhrS4EArZi+Kbv6nM9oFKGAPy5derkqoTzQelgcBd9A5e55l9paCCw="
  },
  "signs_required": 1,
  "title": "DCRS - Device Checker/Runtime System",
