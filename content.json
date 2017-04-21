@@ -2,11 +2,11 @@
  "address": "1DCRSfb95muP5N78v1fQ8DN8CxbjEfXewT",
  "description": "DCRS is a OS that runs HTML5 work systems.",
  "domain": "dcrs.bit",
- "favicon": "favicon.ico",
+ "favicon": "ui/favicon.png",
  "files": {
   ".git/COMMIT_EDITMSG": {
-   "sha512": "d7a7d2ab68a5aa7ccfbdce3347d68606c7aafa619c43dab234e34b6ee6269fe4",
-   "size": 15
+   "sha512": "7be33724534944dd32752a892f9d24f3e250222dd26ba43569a2a3944ac2b809",
+   "size": 35
   },
   ".git/FETCH_HEAD": {
    "sha512": "d4d11764fcba00667bb06521df403205aef201d7dc3874c9e1052ccfad258cb0",
@@ -65,7 +65,7 @@
    "size": 3610
   },
   ".git/index": {
-   "sha512": "8c9749a4f338175a985e21e6fced27304204fdf4d0839dd21b0cde6eb2e5f61f",
+   "sha512": "61d394c041af0e7e8769cd190d7d83b187b525a0f3a83394e69c59d010d44ed1",
    "size": 4661
   },
   ".git/info/exclude": {
@@ -73,20 +73,20 @@
    "size": 240
   },
   ".git/logs/HEAD": {
-   "sha512": "a0b5111d21dd1947cff968a97e73a7d7c167ad8384da10af768eb11a50441296",
-   "size": 1566
+   "sha512": "37de8dce77becc9728952136c5d9768595eef279aae8f2b701dcd5d8db16a952",
+   "size": 1740
   },
   ".git/logs/refs/heads/master": {
-   "sha512": "a0b5111d21dd1947cff968a97e73a7d7c167ad8384da10af768eb11a50441296",
-   "size": 1566
+   "sha512": "37de8dce77becc9728952136c5d9768595eef279aae8f2b701dcd5d8db16a952",
+   "size": 1740
   },
   ".git/logs/refs/remotes/origin/HEAD": {
    "sha512": "fc1244e0192991843ad2f6394f2c4ea1fba8a164d41779d17df259eef5797298",
    "size": 176
   },
   ".git/logs/refs/remotes/origin/master": {
-   "sha512": "1e01b36aa5dc5590b5f8967d880c1a2d7559654e27e2269fabced830c13dbe2f",
-   "size": 1168
+   "sha512": "3819037639aa51166ee189d93162eb349d18b858f9b9ecc4b4a09808dbe4f815",
+   "size": 1314
   },
   ".git/objects/01/2e50ee98d6981c6994b24217ba30074516a91b": {
    "sha512": "580808ac73c7e4b6f1eedfbc723fc361e48ab8225046bd2bef1c78760a964cf9",
@@ -135,6 +135,10 @@
   ".git/objects/1f/99282319dbf11fd505b49b2fce73fb8961b862": {
    "sha512": "973383d2d53359ace1662f6e3eecfba0611aad05e8d7ef32df76711c5fddddb4",
    "size": 5071
+  },
+  ".git/objects/24/3cd2938e60f548d5b2bf58e8161b2129e81f0f": {
+   "sha512": "273f4830efd1cbd0feb698ab482f265b7497d8d2b1c020c18585c6f4ad26a60f",
+   "size": 562
   },
   ".git/objects/24/deba7833085bf6087bdbfe15fe3eaa1bb431ac": {
    "sha512": "3599d10229ce2ae6e9d4ad33a418b3981b34e03adfd83e74c7092bf2ca3bc096",
@@ -316,6 +320,10 @@
    "sha512": "09d293015129a451b6d67031a2e6b366ecaeb871eb7c72a0e6e551cdf6302177",
    "size": 43
   },
+  ".git/objects/8f/e6a5d74a5e63de3020d3154aa52015a814578a": {
+   "sha512": "7c18ad97db33b61cf858b81e670b0b0dde0ec3528b83a2a2fc2007c908dc7af9",
+   "size": 15411
+  },
   ".git/objects/93/f67fc7c0d9c723d5c39aec1f08664487b9ccd8": {
    "sha512": "4664b43a7f5b744ca8fea5f2d04c195ca51192a1667fe78656833668de69c777",
    "size": 566
@@ -448,9 +456,17 @@
    "sha512": "d46cd3d6d4acd58ee8465b952a2bf98fb3ed90069b8243d050f2f9ab39f47c15",
    "size": 34825
   },
+  ".git/objects/f0/4dbcaab8afca6e3696fecf82863282b9aeec95": {
+   "sha512": "ed35d9c5cc9f2f53b2eee3c304ab9a28463659f304071ade931d0f8cb061a425",
+   "size": 5063
+  },
   ".git/objects/f0/84a8c39be30d04e19b53e99666247f0c8d527d": {
    "sha512": "4c48dc1e935c195d9cf0710ce5f851526ac02ba4e8cce2ba46903abae484ab52",
    "size": 556
+  },
+  ".git/objects/f2/34a502d0de5eb5daf4f1d88d134801525cda5e": {
+   "sha512": "5c06056ce659b23864986807bac6192c24200d80c8621eb820acd9e6f04ef668",
+   "size": 336
   },
   ".git/objects/f6/f97b462ffe75b68e4a403099416643704355cb": {
    "sha512": "9547f4d5cd32c45bf10ab9f987a4f72a8165cb7b544e09384066e3c8d57a52ac",
@@ -481,7 +497,7 @@
    "size": 107
   },
   ".git/refs/heads/master": {
-   "sha512": "0b41b9fd3ee231a5324f2f7ed8b42d5e5c3e84a393f5eab148c7c778f8b154ed",
+   "sha512": "893ecff95425a69e0a67c01406a293ecbc16aef6b7c40e8887f9a7e4dfbf75b3",
    "size": 41
   },
   ".git/refs/remotes/origin/HEAD": {
@@ -489,20 +505,12 @@
    "size": 32
   },
   ".git/refs/remotes/origin/master": {
-   "sha512": "0b41b9fd3ee231a5324f2f7ed8b42d5e5c3e84a393f5eab148c7c778f8b154ed",
+   "sha512": "893ecff95425a69e0a67c01406a293ecbc16aef6b7c40e8887f9a7e4dfbf75b3",
    "size": 41
   },
   "README.md": {
    "sha512": "f61c45a31b7bd814bd5e81a65aece164160445ab720c67a644cbf534916426b0",
    "size": 32
-  },
-  "favicon.ico": {
-   "sha512": "92062cb6bf4280b08ff67fb01b58acf245e250ebf7c88662bdcffd3ca6b29464",
-   "size": 1150
-  },
-  "icon.png": {
-   "sha512": "275df607d24dcb36873bcc0b2fd841dd2ea27c6ce67e9037a179dff4cda2327c",
-   "size": 541
   },
   "images/demo/222x86.png": {
    "sha512": "c0e1915be19ab8c7079056390e6045ceb109b1e69a2ea83455a3413175e484d3",
@@ -593,8 +601,8 @@
    "size": 1178
   },
   "index.html": {
-   "sha512": "24d03840de891fb8b463a603de96a10f52ddb4972af0fc714e97ba0d873a76b9",
-   "size": 20824
+   "sha512": "7d025c30ce7c08da2d99ab62164c0379d6340553751dde3b6442b8c99114deb9",
+   "size": 20833
   },
   "layout/scripts/jquery.backtotop.js": {
    "sha512": "6100634a858d77365259ce44a8664c4418daf657e96a6c38c41eb76efcce5526",
@@ -665,8 +673,8 @@
    "size": 17673
   },
   "ui/.git/COMMIT_EDITMSG": {
-   "sha512": "28480968220ce5e041cb6b9ae52a39f13e2ad5bfde470657d142f70fa4bd5465",
-   "size": 8
+   "sha512": "7134e33e659add3ce81fc750d7f4cf16efde7757b19ca70b793776c63f0dac51",
+   "size": 7
   },
   "ui/.git/HEAD": {
    "sha512": "76b199f1bffdc6d21547895431b0f85f3857df400225cbd1ae55e7ded09786a8",
@@ -987,14 +995,14 @@
  },
  "ignore": "",
  "inner_path": "content.json",
- "modified": 1492750882,
+ "modified": 1492788165,
  "sign": [
-  77266449020888298268663929697332441439789723195082586931485604054077258892568,
-  83237941067038110592365039308271027363103669813857637765435955008564418114440
+  69651448760849287370269533414179697797115579655152382284428200822374949492964,
+  107773257944764495520059466975818950035632216627221826320268363082453610999176
  ],
  "signers_sign": "HIyg+dOPWKFZL5GTI7ilHGpwyPy1WLXObNJp8zXvEvvuUqTvUK2KvGuKkQe4ulAaf1STWZ5wYPi8p91bF7kwU80=",
  "signs": {
-  "1DCRSfb95muP5N78v1fQ8DN8CxbjEfXewT": "HGTbFdR+zi28vrcv232CPYsTlBUGNOoCyCySmbqWn0aVAx8wJlZluUDR97yIrXzj2DpTE6xvF+gOjO4X4HlanCg="
+  "1DCRSfb95muP5N78v1fQ8DN8CxbjEfXewT": "GxQGyUb/Omm4XgdjWBuAk2h1IEEW7nvQmTr1RS1q8glKNjvZCPhqW0+IbqHZLrpUu17UKn2PhlbnFLMWt14gfD4="
  },
  "signs_required": 1,
  "title": "DCRS - Device Checker/Runtime System",
